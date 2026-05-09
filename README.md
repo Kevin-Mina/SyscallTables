@@ -36,6 +36,7 @@
 - Windows 11 26H1 build 28020
 - Windows 11 27H2 build 29550
 - Windows 11 27H2 build 29560
+- Windows 11 27H2 build 29580
 
 **Located in** 
 + `data\Composition\X86_64\NT6\ntos` (NT6+)
@@ -79,6 +80,7 @@ NT10 (Windows 11)
 - Windows 11 26H1 build 28020
 - Windows 11 27H2 build 29550
 - Windows 11 27H2 build 29560
+- Windows 11 27H2 build 29580
 
 **Located in** 
 + `data\Composition\X86_64\NT6\win32k` (NT6+)
