@@ -23,18 +23,20 @@
 - Windows 10 RS5 build 17763
 - Windows 10 19H1 build 18362
 - Windows 10 19H2 build 18363
-- Windows 10 20H1 build 19041 (19042, 19043, 19044, 19045 are identical to 19041);
+- Windows 10 20H1 build 19041 (19042, 19043, 19044, 19045 are identical to 19041)*
 - Windows Server 2022 build 20348
-- Windows 11 21H2 build 22000
-- Windows 11 22H2 build 22621
-- Windows 11 23H2 build 22631
-- Windows 11 24H2 build 26100
+- Windows 11 21H2 build 22000*
+- Windows 11 22H2 build 22621*
+- Windows 11 23H2 build 22631*
+- Windows 11 24H2 build 26100*
 - Windows 11 25H2 build 26200
 - Windows 11 26H2 build 26300
 - Windows 11 27H2 build 27975
 - Windows 11 26H1 build 28020
 - Windows 11 27H2 build 29599
 - Windows 11 27H2 build 29617
+
+*July 2026 state, see [#3](https://github.com/hfiref0x/SyscallTables/issues/3), [#5](https://github.com/hfiref0x/SyscallTables/issues/5), [#6](https://github.com/hfiref0x/SyscallTables/issues/6) for more info
 
 **Located in** 
 + `data\Composition\X86_64\NT6\ntos` (NT6+)
@@ -65,18 +67,20 @@ NT10 (Windows 11)
 - Windows 10 RS5 build 17763
 - Windows 10 19H1 build 18362
 - Windows 10 19H2 build 18363
-- Windows 10 20H1 build 19041 (19042, 19043, 19044, 19045 are identical to 19041);
+- Windows 10 20H1 build 19041 (19042, 19043, 19044, 19045 are identical to 19041)*
 - Windows Server 2022 build 20348
-- Windows 11 21H2 build 22000
-- Windows 11 22H2 build 22621
-- Windows 11 23H2 build 22631
-- Windows 11 24H2 build 26100
+- Windows 11 21H2 build 22000*
+- Windows 11 22H2 build 22621*
+- Windows 11 23H2 build 22631*
+- Windows 11 24H2 build 26100*
 - Windows 11 25H2 build 26200
 - Windows 11 26H2 build 26300
 - Windows 11 27H2 build 27975
 - Windows 11 26H1 build 28020
 - Windows 11 27H2 build 29599
 - Windows 11 27H2 build 29617
+
+*July 2026 state, see [#3](https://github.com/hfiref0x/SyscallTables/issues/3), [#5](https://github.com/hfiref0x/SyscallTables/issues/5), [#6](https://github.com/hfiref0x/SyscallTables/issues/6) for more info
 
 **Located in** 
 + `data\Composition\X86_64\NT6\win32k` (NT6+)
